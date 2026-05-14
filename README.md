@@ -54,6 +54,20 @@ The ultrasonic sensor continuously measures distance.
 - If path clear:
   - Move forward
 
+## ⚠ Challenges Faced
+
+- Motor calibration issues
+- Incorrect sensor readings
+- Power supply fluctuations
+- Delay tuning for smooth turns
+
+## ▶ How to Run
+
+1. Open Arduino IDE
+2. Install Servo and NewPing libraries
+3. Connect Arduino Uno
+4. Upload the `.ino` file
+5. Power the robot car
 ---
 
 ## 🔌 Circuit Diagram
