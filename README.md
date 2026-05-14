@@ -50,13 +50,15 @@ The ultrasonic sensor continuously measures distance.
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](Images/circuit_diagram.png)
+<img width="4704" height="2544" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/bb93622c-431d-404b-bb02-2b460def9be6" />
+
 
 ---
 
 ## 📷 Hardware Implementation
 
-![Hardware Setup](Images/hardware_setup.jpg)
+<img width="593" height="403" alt="Hardware Implementation" src="https://github.com/user-attachments/assets/afd07be2-01ef-4855-a895-000137de2cfb" />
+
 
 ---
 
