@@ -41,6 +41,8 @@ The robot continuously scans its surroundings and takes real-time decisions to n
 - L298N Motor Driver
 - Robotics
 
+---
+
 ## ⚙ Working Principle
 
 The ultrasonic sensor continuously measures distance.
@@ -54,12 +56,16 @@ The ultrasonic sensor continuously measures distance.
 - If path clear:
   - Move forward
 
+---
+
 ## ⚠ Challenges Faced
 
 - Motor calibration issues
 - Incorrect sensor readings
 - Power supply fluctuations
 - Delay tuning for smooth turns
+
+---
 
 ## ▶ How to Run
 
@@ -68,6 +74,7 @@ The ultrasonic sensor continuously measures distance.
 3. Connect Arduino Uno
 4. Upload the `.ino` file
 5. Power the robot car
+
 ---
 
 ## 🔌 Circuit Diagram
@@ -107,7 +114,6 @@ Project demo available in the Videos folder.
 - Robotics fundamentals
 - Embedded systems concepts
 
----
 ---
 
 ⭐ If you like this project, give it a star!
