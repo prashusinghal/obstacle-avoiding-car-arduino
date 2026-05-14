@@ -33,6 +33,14 @@ The robot continuously scans its surroundings and takes real-time decisions to n
 
 ---
 
+## 🧰 Tech Stack
+
+- Arduino Uno
+- Embedded C++
+- HC-SR04 Sensor
+- L298N Motor Driver
+- Robotics
+
 ## ⚙ Working Principle
 
 The ultrasonic sensor continuously measures distance.
